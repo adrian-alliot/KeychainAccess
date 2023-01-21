@@ -1,0 +1,5 @@
+apt-get install python 
+apt-get install python3
+apt-get inatall git
+apt-get update && apt-get upgrade
+okay bye-bye
